@@ -84,6 +84,7 @@
     <weaponTags>
       <li>IndustrialGunAdvanced</li>
       <li>AssaultRifle</li>
+      <li>GNF_POOL_AssaultRifle_Intermediate</li>
     </weaponTags>
   </ThingDef>
 
@@ -176,6 +177,7 @@
     <weaponTags>
       <li>IndustrialGunAdvanced</li>
       <li>AssaultRifle</li>
+      <li>GNF_POOL_AssaultRifle_Intermediate</li>
     </weaponTags>
   </ThingDef>
 
@@ -266,6 +268,7 @@
     <weaponTags>
       <li>IndustrialGunAdvanced</li>
       <li>AssaultRifle</li>
+      <li>GNF_POOL_BattleRifle</li>
     </weaponTags>
   </ThingDef>
 
@@ -342,6 +345,7 @@
     <weaponTags>
       <li>IndustrialGunAdvanced</li>
       <li>AssaultRifle</li>
+      <li>GNF_POOL_BattleRifle</li>
     </weaponTags>
   </ThingDef>
 
@@ -431,6 +435,7 @@
     </tools>
     <weaponTags>
       <li>IndustrialGunAdvanced</li>
+      <li>GNF_POOL_DMR</li>
     </weaponTags>
     <weaponClasses>
       <li>LongShots</li>
